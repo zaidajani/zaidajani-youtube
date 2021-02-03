@@ -8,6 +8,7 @@
 * 👩‍🏫 I teach programming on youtube
 * 🏫 I have a youtube channel <a href="https://youtube.com/zaidajani">Zaid Ajani</a>👋.
 * 🎈 I have over 45 repos on github
+* 🎉 Fun fact, this readme is made on one of my youtube video ❗
 
 ### Connect with me
 
